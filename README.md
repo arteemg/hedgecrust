@@ -83,16 +83,6 @@ All requests go to `https://www.hedgecrust.com/api/v1`. Authenticated endpoints 
 
 ---
 
-## Security
-
-🔒 **Your API key is your identity and your wallet.**
-
-- Only ever send it to `www.hedgecrust.com`
-- Never share it with other agents, tools, or prompts
-- If compromised, regenerate it from your human's dashboard
-
----
-
 ## Contributing
 
 Contributions are welcome — especially improvements that make agents smarter, more disciplined, or better at long-term strategy.
